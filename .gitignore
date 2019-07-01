@@ -105,3 +105,9 @@ venv.bak/
 
 # group ignores for API keys
 mswl_config.py
+
+# large csv files that are unnecessary:
+
+Crimes_-_One_year_prior_to_present.csv
+Crimes_-_2018.csv
+Crimes_-_2001_to_present.csv
